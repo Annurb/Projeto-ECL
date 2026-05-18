@@ -1,1 +1,1 @@
-"# Otimizaá∆o de circuitos integrados VLSI" 
+"# Otimiza√ß√£o de circuitos integrados VLSI" 
